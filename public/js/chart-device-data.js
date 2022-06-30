@@ -79,7 +79,7 @@ $(document).ready(() => {
   const chartOptions = {
     title: {
       display: true,
-      text: 'TEST-Temperature & Humidity  Data from IoT',
+      text: 'MES_CSE_KUTTIPURAM-Temperature & Humidity  Data from IoT DEVICES',
       fontSize: 36,
     },
     scales: {
